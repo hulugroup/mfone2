@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Forix_Custom>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Forix_Custom>
+  </modules>
+</config>
